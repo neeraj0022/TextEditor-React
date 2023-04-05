@@ -1,0 +1,62 @@
+
+
+// import './App.css';
+// import About from './components/About';
+// import Navbar from './components/Navbar';
+// import React, { useState } from 'react';
+// import TextForm from './components/TextForm';
+
+// import {
+//   BrowserRouter as Router,
+//   Routes,
+//   Route
+//   // Link,
+// } from "react-router-dom";
+
+// function App() 
+// {
+  
+//   const [mode, setmode] = useState('light')
+
+//   const togglemode= ()=>{
+//     if(mode==='light'){
+//         setmode('dark');
+//         document.body.style.backgroundColor='#36314a';
+//     }
+//     else{
+//       setmode('light')
+//       document.body.style.backgroundColor='white';
+
+//     }
+
+//   }
+
+//   return (
+
+//     <>
+
+//     <Router>
+
+//     <Navbar title="TextEditor" about="AboutUs" mode={mode} togglemode={togglemode} /> 
+
+//       <div className="container my-3">
+
+//           <Routes>
+
+//             <Route exact path="/about" element={<About  mode={mode}/> }>
+//             </Route>
+
+//             <Route exact path="/" element={<TextForm heading="Enter your text -" mode={mode}/>}>
+//             </Route>
+
+//           </Routes>
+
+//       </div>
+//       </Router>
+
+//     </>
+
+//     );
+// }
+
+// export default App;

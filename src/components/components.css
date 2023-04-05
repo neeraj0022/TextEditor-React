@@ -1,0 +1,23 @@
+/* .TextForm{
+    
+} */
+
+.TextForm-box{
+    font-weight:bold;
+    font-size:22px;
+    font-family: 'Baloo Bhai 2', cursive;
+
+}
+
+.text-summary{
+    font-family: 'Baloo Bhai 2', cursive;
+    color: bisque;
+    font-size: 18px;
+}
+
+.container-fluid{
+    border:2px blueviolet;
+    font-family: 'Baloo Bhai 2', cursive;
+
+    
+}
