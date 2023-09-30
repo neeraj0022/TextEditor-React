@@ -1,4 +1,6 @@
 # Getting Started with Create React App
+#TextEditor/Analyzer Built with React
+#Github Deploy Link- https://neeraj0022.github.io/TextEditor-React/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
